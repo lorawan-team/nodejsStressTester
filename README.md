@@ -6,6 +6,7 @@ Usage:
 Start the nodejs app by opening the folder in a terminal, and run
 
 ```sh
+npm install
 nodejs index.js
 ```
 
